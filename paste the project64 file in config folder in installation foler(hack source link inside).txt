@@ -1,0 +1,2 @@
+To get rid of 30s count at start of the project64, you just need to set the `run count to -1`
+https://www.youtube.com/watch?v=Ql8md7goYqY
